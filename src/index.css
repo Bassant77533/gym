@@ -1,0 +1,13 @@
+@import "tailwindcss";
+*{
+  font-family: "Rubik", sans-serif;
+  scroll-behavior: smooth;
+}
+
+
+#triangle-bottomright {
+  width: 0;
+  height: 0;
+  border-bottom: 600px solid rgba(83, 82, 82, 0.699);
+  border-left: 600px solid transparent;
+}
